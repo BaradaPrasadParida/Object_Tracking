@@ -49,7 +49,7 @@ Object tracking projects find applications across various industries, including 
 
 6. **Retail**: Object tracking can be used for inventory management and customer behavior analysis in retail stores.
 
-Conclusion:
+# Conclusion:
 Object tracking projects play a vital role in enabling machines to perceive and interact with their environment in various domains.
 These projects require a combination of data acquisition, computer vision techniques, and state estimation algorithms to achieve accurate and real-time tracking of objects.
 The applications of object tracking are diverse, and its potential for innovation and automation is continually expanding.
